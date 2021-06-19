@@ -1,0 +1,3 @@
+Client ID (from spotify developer app) - b9403f97c51040ffa520469bd83cd3a9
+
+https://slack-clone-d621d.web.app/

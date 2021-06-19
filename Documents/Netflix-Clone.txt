@@ -1,0 +1,6 @@
+API Key (v3 auth) = 65d8098ab2a67efbba05b71c8552dd50
+
+npm i reat-youtube - to install react youtube package
+npm i movie-trailer - to install render video
+
+https://netflix-clone-e6bb2.web.app/ 
